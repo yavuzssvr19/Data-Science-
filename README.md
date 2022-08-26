@@ -1,6 +1,9 @@
-# Data-Science-
+# Veri Bilimiyle İlk Buluşma
   
-  Bir az klasik bir başlangıç olacak ama ben bu blog yazıma hayallerimle başlamak istiyorum. Bu yaşıma kadar yaptığım tüm araştırmalarla birlikte öğrendiğim tüm yeni 
+  Bu blog yaszısını yazma amacım veri bilimiyle alakalı sizlere fazla bilgi vermek veya bilmediğiniz şeyleri anlatmak değil. Bu blog yazsının amacı veri bilmine duyduğum ilgimin küçük yaşımdan beri ve zamanla nasıl geliştiğini anlatmak. Küçük yaşımdan beri diyorum çünkü ufak bir tecrübem oldu veri bilimiiyle alakalı belki o zamanlar veri bilminin bu konuyla alakası ne olduğunu bilmiyordum ama sonuçta bir şekilde veri bilimi beni bulmuş.
   
-  bilgiler beni hayata karşı hayalperest yaklaşmaya itti.
+  Orta okul yıllarımda yurtdışında düzenlenen bir robat yarışmasına katılmıştım okulumla birlikte. Tabii basit düzeyde bir robat yarışması. Basit düzey olarak yorumladım çünkü bu zamanda robatlara çeşitli algoritmalarla bir sürü iş yüklerken biz o zamanlar sadece robotların çizgi izlemesiyle ilgileniyorduk. Her neyse o yıllara tekrar bir dönelim ve bakalım. Benim açımdan robot yarışması çok bir şey ifade etmiyordu çünkü robotlara işlenilen algoritmalar olsun robotlarımız olsun her şeyiyle hocalarımız yapıp bizlere nasıl çalıştırcağımızı ve kullanacağımızı anlatıyordu. Bu iş bana yeterli gelmemişti tabii ki. Yeni araştırmalara başladım. Araştırmalarımda her okudğum makalede,denemede veri bilimini görüyordum. O yaşımda anlamıştım ki bu kadar önemli bir konu insanın üstüne gitmediği bir zaman kolay kolay önüne gelmez. İşte o zaman veri bilminin mucizelerini ve insan yaşamına iyi yönde olsun kötü yönde olsun ne kadar çok etkilediğini anlamıştım. Sonuçta veri bilimi olmadan yapay zeka olmaz.
+  Gelelim günümüze,geçen seneye kadar bendeki veri bilimin önemi ve yapay zeka orta okul yıllarımda kalmıştı. Ancak geçen python programlama diliyile ilgilenmeye başlayınca tekrar hatırlamış oldum önemeni ve şuanda patika.dev ve kodluyoruz sayesinde eğitimlerimi alıp merakımı üst seviyelere taşıyabiliyorum. Unutmayın ki yapay zeka mucizeleriin dünyasıdır.
+  
+  
   
